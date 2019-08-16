@@ -8,6 +8,7 @@
     Za evente mozemo koristiti v-on:brisanje ili @ simbol -->
     <OnlineFriends :prijatelji="friends"/>
     <hr>
+    
     <Blog />
   </div>
 </template>

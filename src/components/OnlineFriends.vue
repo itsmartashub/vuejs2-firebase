@@ -10,7 +10,9 @@
 <script>
 export default {
     name: 'OnlineFriends',
+    
     props: ['prijatelji'],
+
     data() {
         return {
             

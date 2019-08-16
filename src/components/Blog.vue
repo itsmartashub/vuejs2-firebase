@@ -8,6 +8,7 @@
 <script>
 export default {
     name: 'Blogs',
+    
     data() {
         return {
             blogTitle: 'Blogs'
